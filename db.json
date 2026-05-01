@@ -7,7 +7,7 @@
       "price": 120,
       "rating": 4.5,
       "stock": 8,
-      "description": "Premium UV-protection sunglasses designed for bright summer days and beach comfort.",
+      "description": "Premium UV-protection sunglasses crafted for bright summer days and beach adventures. Designed with lightweight frames and polarized lenses for maximum comfort and clarity. Perfect for protecting your eyes while adding a stylish touch to any outfit.",
       "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Accessories"
     },
@@ -18,7 +18,7 @@
       "price": 85,
       "rating": 5,
       "stock": 12,
-      "description": "Breathable lightweight linen shirt perfect for hot summer weather and beach walks.",
+      "description": "A breathable and lightweight linen shirt made for hot summer weather and casual outings. Its soft fabric ensures all-day comfort while maintaining a clean, modern look. Ideal for beach walks, vacations, or everyday summer styling.",
       "image": "https://images.unsplash.com/photo-1713881587420-113c1c43e28a?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Clothing"
     },
@@ -29,7 +29,7 @@
       "price": 42,
       "rating": 4.2,
       "stock": 20,
-      "description": "SPF 50 sunscreen offering strong UV protection for long beach exposure.",
+      "description": "High-performance SPF 50 sunscreen designed to provide strong protection against harmful UV rays. Its lightweight and non-greasy formula keeps your skin hydrated and refreshed all day. A must-have for beach days, outdoor activities, and sunny vacations.",
       "image": "https://images.unsplash.com/photo-1709551265087-b51442b4fc66?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Skincare"
     },
@@ -40,7 +40,7 @@
       "price": 35,
       "rating": 4.3,
       "stock": 15,
-      "description": "Stylish straw hat designed for sun protection and effortless summer fashion.",
+      "description": "A stylish straw beach hat made to combine fashion and sun protection effortlessly. Its wide brim offers excellent shade while keeping you cool under the summer sun. Perfect for beach trips, vacations, or outdoor brunches.",
       "image": "https://images.unsplash.com/photo-1626028383771-ec16536a1af8?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Accessories"
     },
@@ -51,7 +51,7 @@
       "price": 65,
       "rating": 4.6,
       "stock": 10,
-      "description": "Spacious and durable tote bag perfect for carrying beach essentials.",
+      "description": "A spacious and durable tote bag designed to carry all your beach essentials with ease. Made with lightweight materials and strong handles for comfort and reliability. Perfect for towels, sunscreen, snacks, and everything you need for a beach day.",
       "image": "https://images.unsplash.com/photo-1763056531605-4e75d78e5016?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Bags"
     },
@@ -62,7 +62,7 @@
       "price": 25,
       "rating": 4.1,
       "stock": 30,
-      "description": "Comfortable lightweight flip flops ideal for beach and casual summer wear.",
+      "description": "Comfortable and lightweight flip flops made for beach walks and casual summer wear. Designed with cushioned soles for extra comfort and long-lasting support. Easy to slip on and perfect for warm-weather adventures.",
       "image": "https://images.unsplash.com/photo-1659963970293-b12cfeb286c5?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Footwear"
     },
@@ -73,7 +73,7 @@
       "price": 48,
       "rating": 4.7,
       "stock": 18,
-      "description": "Advanced hydrating sunscreen with SPF 50 for long-lasting skin protection.",
+      "description": "Advanced hydrating sunscreen that combines powerful SPF 50 protection with skin-nourishing ingredients. Keeps your skin moisturized while shielding it from harsh sunlight. Perfect for daily wear, outdoor sports, and long summer trips.",
       "image": "https://images.unsplash.com/photo-1594332322527-08753d4473c1?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Skincare"
     },
@@ -84,7 +84,7 @@
       "price": 90,
       "rating": 4.5,
       "stock": 9,
-      "description": "Comfortable and stylish beachwear  designed for beach vacations and pool days.",
+      "description": "A comfortable and stylish beachwear set designed for vacations, poolside relaxation, and sunny beach days. Made with breathable fabric to keep you cool and comfortable in warm weather. Blends fashion and functionality for the ultimate summer look.",
       "image": "https://images.unsplash.com/photo-1699952298589-1d568db5d607?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Swimwear"
     }
