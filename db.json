@@ -1,0 +1,123 @@
+{
+    "products": [
+    {
+      "id": 1,
+      "name": "Aura Riviera Sunglasses",
+      "brand": "RAVEN",
+      "price": 120,
+      "rating": 4.5,
+      "stock": 8,
+      "description": "Premium UV-protection sunglasses designed for bright summer days and beach comfort.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "name": "Drift Linen Shirt",
+      "brand": "DRIFT",
+      "price": 85,
+      "rating": 5,
+      "stock": 12,
+      "description": "Breathable lightweight linen shirt perfect for hot summer weather and beach walks.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Aura Sun Shield Sunscreen",
+      "brand": "AURA",
+      "price": 42,
+      "rating": 4.2,
+      "stock": 20,
+      "description": "SPF 50 sunscreen offering strong UV protection for long beach exposure.",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Skincare"
+    },
+    {
+      "id": 4,
+      "name": "Straw Beach Hat",
+      "brand": "SOL",
+      "price": 35,
+      "rating": 4.3,
+      "stock": 15,
+      "description": "Stylish straw hat designed for sun protection and effortless summer fashion.",
+      "image": "https://images.unsplash.com/photo-1520975918315-3f9d2d5f3b3b?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Sol Beach Tote Bag",
+      "brand": "SOL",
+      "price": 65,
+      "rating": 4.6,
+      "stock": 10,
+      "description": "Spacious and durable tote bag perfect for carrying beach essentials.",
+      "image": "https://images.unsplash.com/photo-1526178613552-2b45c6c302f0?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Bags"
+    },
+    {
+      "id": 6,
+      "name": "Trendy Flip Flops",
+      "brand": "WAVE",
+      "price": 25,
+      "rating": 4.1,
+      "stock": 30,
+      "description": "Comfortable lightweight flip flops ideal for beach and casual summer wear.",
+      "image": "https://images.unsplash.com/photo-1528701800489-20be3c2ea0d8?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Footwear"
+    },
+    {
+      "id": 7,
+      "name": "Hydrating Sunscreen SPF 50",
+      "brand": "AURA",
+      "price": 48,
+      "rating": 4.7,
+      "stock": 18,
+      "description": "Advanced hydrating sunscreen with SPF 50 for long-lasting skin protection.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Skincare"
+    },
+    {
+      "id": 8,
+      "name": "Bloom Summer Beach Wear Set",
+      "brand": "BLOOM",
+      "price": 90,
+      "rating": 4.5,
+      "stock": 9,
+      "description": "Comfortable and stylish bikini set designed for beach vacations and pool days.",
+      "image": "https://images.unsplash.com/photo-1520975918315-3f9d2d5f3b3b?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Swimwear"
+    }
+  ],
+
+    "brandCards": [
+    {
+        "id": 1,
+        "brandName": "AURA",
+        "tagline": "Premium skincare essentials for sunny days",
+        "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?fit=crop&w=1200&h=700&q=80",
+        "category": "Skincare"
+    },
+    {
+        "id": 2,
+        "brandName": "BLOOM",
+        "tagline": "Lightweight summer outfits with breathable comfort",
+        "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?fit=crop&w=1200&h=700&q=80",
+        "category": "Summer Fashion"
+    },
+    {
+        "id": 3,
+        "brandName": "PARADISE",
+        "tagline": "Stylish beach bags and breezy summer hats for your perfect seaside look",
+        "image": "https://images.unsplash.com/photo-1758900561440-4014bdd78c10?q=80&w=1151&auto=format&fit=crop&w=1200&h=700&q=80",
+        "category": "Summer Fashion"
+    },
+    {
+        "id": 4,
+        "brandName": "DRIFT",
+        "tagline": "Beach-ready accessories for travel and relaxation",
+        "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?fit=crop&w=1200&h=700&q=80",
+        "category": "Beach Accessories"
+    }
+]
+}
